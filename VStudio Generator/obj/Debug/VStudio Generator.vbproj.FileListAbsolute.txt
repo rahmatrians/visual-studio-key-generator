@@ -1,0 +1,12 @@
+D:\Key Generator\VStudio Generator\VStudio Generator\bin\Debug\VStudio Generator.exe.config
+D:\Key Generator\VStudio Generator\VStudio Generator\bin\Debug\VStudio Generator.exe
+D:\Key Generator\VStudio Generator\VStudio Generator\bin\Debug\VStudio Generator.pdb
+D:\Key Generator\VStudio Generator\VStudio Generator\bin\Debug\VStudio Generator.xml
+D:\Key Generator\VStudio Generator\VStudio Generator\obj\Debug\VStudio_Generator.Form1.resources
+D:\Key Generator\VStudio Generator\VStudio Generator\obj\Debug\VStudio_Generator.Resources.resources
+D:\Key Generator\VStudio Generator\VStudio Generator\obj\Debug\VStudio Generator.vbproj.GenerateResource.Cache
+D:\Key Generator\VStudio Generator\VStudio Generator\obj\Debug\VStudio Generator.exe
+D:\Key Generator\VStudio Generator\VStudio Generator\obj\Debug\VStudio Generator.xml
+D:\Key Generator\VStudio Generator\VStudio Generator\obj\Debug\VStudio Generator.pdb
+D:\Key Generator\VStudio Generator\VStudio Generator\obj\Debug\VStudio Generator.vbprojResolveAssemblyReference.cache
+D:\Key Generator\VStudio Generator\VStudio Generator\obj\Debug\VStudio_Generator.Form2.resources
